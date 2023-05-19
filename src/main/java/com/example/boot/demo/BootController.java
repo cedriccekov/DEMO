@@ -24,7 +24,7 @@ public class BootController {
     
     @GetMapping("/boot")
     public String index() {
-        return "hello spring boot";
+        return "hello spring";
     }
     
     
